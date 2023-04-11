@@ -14,4 +14,6 @@ public class Day2Demo {
 		"This is coming from another team member"
 		
 		**/
+	
+	String firstName = "John";
 }
